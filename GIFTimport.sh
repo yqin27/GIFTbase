@@ -1,3 +1,22 @@
+#===============================================================================
+#
+#          FILE:  GIFTimport.sh
+#
+#         USAGE:  ./GIFTimport.sh vcf_file
+#
+#   DESCRIPTION: 
+#
+#       OPTIONS:  ---
+#  REQUIREMENTS:  ---
+#          BUGS:  ---
+#         NOTES:  ---
+#        AUTHOR: Yue Qin, YQin@mednet.ucla.edu
+#       COMPANY: ICNN, UCLA
+#       CREATED: 06/08/2015 09:32:02 PM PDT
+#      REVISION:  ---
+#===============================================================================
+
+
 #!/bin/bash
 
 f=$1
